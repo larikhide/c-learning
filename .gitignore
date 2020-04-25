@@ -52,7 +52,7 @@ Mkfile.old
 dkms.conf
 
 #specific user 
-*/.idea/
+.idea/
 *.txt
 #*/cmake-build-debug/
 /**/cmake-build-debug/
