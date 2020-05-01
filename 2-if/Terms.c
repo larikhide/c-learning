@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int main(int argc, const char* argv[]) {
     char answer;
     printf("Do you want mw to salute you? (y/n)");
@@ -14,3 +15,4 @@ int main(int argc, const char* argv[]) {
 
         return 0;
 }
+// something what i want to remove
